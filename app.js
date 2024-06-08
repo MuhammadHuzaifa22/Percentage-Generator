@@ -32,4 +32,4 @@ function calculatePercentage(){
     }
 }
 
-// Pushing 
+// Pushing to Github
